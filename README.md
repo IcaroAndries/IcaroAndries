@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, im Icaro Andries 👋</h1>
+<h1 align="center"> Hi, im Icaro Andries</h1>
 
 I am Full-Stack developer.
 --------------------------
